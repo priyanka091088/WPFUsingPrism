@@ -1,0 +1,25 @@
+﻿<UserControl x:Class="EmployeeModule.View.EmployeeView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="200" d:DesignWidth="200">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Grid.Row="0" Text="Employee List" FontSize="15" FontWeight="Bold" VerticalAlignment="Center" HorizontalAlignment="Left"></TextBlock>
+        <DataGrid Grid.Row="1" ItemsSource="{Binding EmployeeList}" AutoGenerateColumns="False" CanUserAddRows="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Width="50" Binding="{Binding ID}" IsReadOnly="True"></DataGridTextColumn>
+                <DataGridTextColumn Header="First Name" Width="150" Binding="{Binding FirstName}" IsReadOnly="True"></DataGridTextColumn>
+                <DataGridTextColumn Header="Last Name" Width="150" Binding="{Binding LastName}" IsReadOnly="True"></DataGridTextColumn>
+                <DataGridTextColumn Header="Email" Width="150" Binding="{Binding Email}" IsReadOnly="True"></DataGridTextColumn>
+                <DataGridTextColumn Header="Mobile" Width="150" Binding="{Binding Mobile}" IsReadOnly="True"></DataGridTextColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+   </Grid>
+</UserControl>

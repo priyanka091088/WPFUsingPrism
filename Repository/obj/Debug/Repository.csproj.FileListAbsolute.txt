@@ -1,0 +1,14 @@
+D:\WPF Application\WPFApp_16092014\WPFUsingPrism\Repository\bin\Debug\Repository.dll
+D:\WPF Application\WPFApp_16092014\WPFUsingPrism\Repository\bin\Debug\Repository.pdb
+D:\WPF Application\WPFApp_16092014\WPFUsingPrism\Repository\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\WPF Application\WPFApp_16092014\WPFUsingPrism\Repository\bin\Debug\Microsoft.Practices.Prism.dll
+D:\WPF Application\WPFApp_16092014\WPFUsingPrism\Repository\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+D:\WPF Application\WPFApp_16092014\WPFUsingPrism\Repository\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\WPF Application\WPFApp_16092014\WPFUsingPrism\Repository\bin\Debug\System.Windows.Interactivity.dll
+D:\WPF Application\WPFApp_16092014\WPFUsingPrism\Repository\bin\Debug\Microsoft.Practices.Prism.xml
+D:\WPF Application\WPFApp_16092014\WPFUsingPrism\Repository\bin\Debug\Microsoft.Practices.Prism.Interactivity.xml
+D:\WPF Application\WPFApp_16092014\WPFUsingPrism\Repository\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\WPF Application\WPFApp_16092014\WPFUsingPrism\Repository\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\WPF Application\WPFApp_16092014\WPFUsingPrism\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+D:\WPF Application\WPFApp_16092014\WPFUsingPrism\Repository\obj\Debug\Repository.dll
+D:\WPF Application\WPFApp_16092014\WPFUsingPrism\Repository\obj\Debug\Repository.pdb
